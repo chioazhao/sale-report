@@ -1,0 +1,13 @@
+"id":1, // 序号
+      "goods_no":"021269-01", // 货号
+      "shop":"幸运叶子GW店铺", // 店铺
+      "sale_price":140, // 售价
+      "discount":8.28, // 折扣
+      "profit_amount":"36.79", // 近10天利润额
+      "profit":12.26, // 平均每件利润额
+      "sale_amount":420, // 近10天销售额
+      "sale_num":"3", // 近10天销量
+      "estimate_inventory_sale_ratio":1457, // 预计库销比
+      "profit_rank":"1", // 利润排名
+      "recommend_price":101.83, // 自己店铺推荐售价
+      "plan_id":4 // 计划ID
